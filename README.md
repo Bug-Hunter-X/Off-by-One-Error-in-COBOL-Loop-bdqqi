@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL loops. The bug.cob file contains the erroneous code, while bugSolution.cob provides the corrected version. The error results in an extra iteration of the loop, leading to an incorrect total.  The solution addresses this by modifying the loop condition to ensure the correct number of iterations.
